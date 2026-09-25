@@ -1,0 +1,49 @@
+project_id,project_name,sector,state,planned_cost,current_cost,planned_duration_months,elapsed_duration_months,physical_progress,financial_progress,expected_progress,milestones_total,milestones_delayed,planned_completion_date,revised_completion_date,expenditure,contractor_rating,issues_count,previous_delay,project_status
+PP-001,Highway Project Alpha,Roads,Karnataka,952.0,1142.4,24,9.3,58.0,64.0,76.0,12,6,2028-01-01,2028-03-01,588.23,2.2,9,1,Critical
+PP-002,Railway Project Beta,Railways,Tamil Nadu,272.0,291.04,25,22.5,62.0,64.2,73.0,10,3,2028-02-01,2028-03-01,167.1,3.2,4,1,Delayed
+PP-003,Water Project Gamma,Water,Odisha,956.0,979.9,30,11.9,82.0,79.8,79.0,12,1,2028-07-01,2028-08-01,770.51,4.5,1,0,On Track
+PP-004,Metro Corridor Delta,Power,Madhya Pradesh,1108.0,1399.16,20,14.8,41.2,50.9,70.5,11,7,2027-09-01,2027-12-01,554.65,2.5,10,0,Critical
+PP-005,Irrigation Network Epsilon,Urban Development,Gujarat,535.0,608.25,38,31.3,69.3,78.6,79.3,11,4,2029-03-01,2029-03-01,405.22,3.3,6,0,Delayed
+PP-006,Power Grid Zeta,Irrigation,Rajasthan,614.0,615.49,42,32.9,80.4,77.8,82.6,14,3,2029-07-01,2029-07-01,447.7,3.6,3,0,On Track
+PP-007,Urban Renewal Eta,Healthcare,Kerala,297.0,338.29,60,48.4,70.8,73.6,81.2,15,2,2031-01-01,2031-03-01,204.95,3.9,3,1,Delayed
+PP-008,District Hospital Theta,Education,Maharashtra,501.0,569.05,54,16.8,8.6,9.8,33.2,11,5,2030-07-01,2030-11-01,45.51,2.6,10,1,Critical
+PP-009,School Modernisation Iota,Roads,Telangana,245.0,258.72,19,10.0,44.1,54.5,50.6,16,3,2027-08-01,2027-09-01,131.67,4.2,2,1,Delayed
+PP-010,Expressway Kappa,Railways,Uttar Pradesh,235.0,249.17,59,35.4,54.1,54.8,60.7,16,6,2030-12-01,2031-03-01,133.94,2.8,6,0,Delayed
+PP-011,Bridge Link Lambda,Water,Karnataka,209.0,250.44,25,7.4,5.0,12.4,25.4,17,8,2028-02-01,2028-03-01,24.31,1.9,12,1,Critical
+PP-012,Water Treatment Mu,Power,Tamil Nadu,409.0,461.95,36,24.6,50.3,46.3,69.0,17,1,2029-01-01,2029-04-01,191.19,3.9,5,1,Critical
+PP-013,Urban Development Modernisation Project 13,Urban Development,Odisha,1036.0,1082.16,57,51.1,87.8,89.5,88.1,9,2,2030-10-01,2030-11-01,953.88,4.8,4,0,On Track
+PP-014,Irrigation Modernisation Project 14,Irrigation,Madhya Pradesh,386.0,478.83,26,9.4,11.8,16.7,38.8,10,6,2028-03-01,2028-05-01,61.06,2.9,9,0,Critical
+PP-015,Healthcare Modernisation Project 15,Healthcare,Gujarat,1191.0,1296.07,20,18.1,79.1,90.6,94.0,12,2,2027-09-01,2027-10-01,1041.25,3.9,3,1,Delayed
+PP-016,Education Modernisation Project 16,Education,Rajasthan,261.0,264.67,44,15.2,31.8,34.0,32.2,13,1,2029-09-01,2029-10-01,83.61,4.3,0,1,On Track
+PP-017,Roads Modernisation Project 17,Roads,Kerala,1068.0,1133.52,24,22.3,75.3,84.5,96.9,9,2,2028-01-01,2028-02-01,904.15,2.7,4,0,Critical
+PP-018,Railways Modernisation Project 18,Railways,Maharashtra,781.0,885.72,42,39.1,70.2,67.4,95.3,14,7,2029-07-01,2029-11-01,536.72,2.1,12,0,Critical
+PP-019,Water Modernisation Project 19,Water,Telangana,1128.0,1151.03,18,5.5,31.1,43.4,34.3,13,2,2027-07-01,2027-07-01,500.34,4.6,1,0,On Track
+PP-020,Power Modernisation Project 20,Power,Uttar Pradesh,744.0,807.55,18,15.7,76.5,75.1,92.1,12,5,2027-07-01,2027-07-01,534.39,2.7,7,0,Critical
+PP-021,Urban Development Modernisation Project 21,Urban Development,Karnataka,719.0,876.95,46,33.2,56.0,57.1,73.0,15,6,2029-11-01,2030-07-01,406.46,2.8,12,0,Critical
+PP-022,Irrigation Modernisation Project 22,Irrigation,Tamil Nadu,501.0,540.79,34,27.8,73.1,73.4,85.8,14,1,2028-11-01,2028-12-01,366.81,3.6,6,1,Delayed
+PP-023,Healthcare Modernisation Project 23,Healthcare,Odisha,523.0,535.5,26,9.5,39.8,30.8,40.8,10,0,2028-03-01,2028-03-01,154.63,4.4,3,0,On Track
+PP-024,Education Modernisation Project 24,Education,Madhya Pradesh,960.0,1113.48,50,23.2,15.2,23.8,47.1,8,4,2030-03-01,2030-08-01,217.29,2.3,6,0,Critical
+PP-025,Roads Modernisation Project 25,Roads,Gujarat,259.0,277.51,21,5.7,15.5,21.2,23.5,15,6,2027-10-01,2027-11-01,57.04,2.8,7,1,Delayed
+PP-026,Railways Modernisation Project 26,Railways,Rajasthan,409.0,403.17,49,36.0,69.3,66.7,70.8,13,2,2030-02-01,2030-03-01,251.44,4.7,3,0,On Track
+PP-027,Water Modernisation Project 27,Water,Kerala,1144.0,1218.81,36,28.2,69.1,77.5,76.6,10,2,2029-01-01,2029-03-01,862.31,3.3,5,1,Delayed
+PP-028,Power Modernisation Project 28,Power,Maharashtra,1093.0,1248.37,22,20.0,61.8,68.3,85.5,14,7,2027-11-01,2028-01-01,694.92,2.3,8,1,Critical
+PP-029,Urban Development Modernisation Project 29,Urban Development,Telangana,464.0,493.06,32,22.6,71.4,73.5,70.7,16,2,2028-09-01,2028-10-01,332.79,4.6,0,0,On Track
+PP-030,Irrigation Modernisation Project 30,Irrigation,Uttar Pradesh,1038.0,1165.39,19,12.2,52.9,44.1,65.2,17,4,2027-08-01,2027-08-01,469.74,2.8,7,0,Delayed
+PP-031,Healthcare Modernisation Project 31,Healthcare,Karnataka,925.0,1105.04,21,6.7,5.0,5.0,31.6,11,7,2027-10-01,2027-12-01,45.76,2.4,7,1,Critical
+PP-032,Education Modernisation Project 32,Education,Tamil Nadu,224.0,252.12,52,43.8,69.3,73.9,80.3,15,4,2030-05-01,2030-10-01,172.23,2.7,5,1,Delayed
+PP-033,Roads Modernisation Project 33,Roads,Odisha,302.0,294.82,45,17.8,29.2,32.1,39.0,17,1,2029-10-01,2029-11-01,102.3,4.4,4,0,Delayed
+PP-034,Railways Modernisation Project 34,Railways,Madhya Pradesh,361.0,433.67,51,29.6,32.2,29.8,56.6,15,7,2030-04-01,2030-12-01,107.13,2.7,12,0,Critical
+PP-035,Water Modernisation Project 35,Water,Gujarat,514.0,558.02,43,40.4,80.6,81.8,93.2,10,3,2029-08-01,2029-10-01,389.58,2.8,6,0,Delayed
+PP-036,Power Modernisation Project 36,Power,Rajasthan,1152.0,1196.85,38,30.9,75.9,65.6,79.5,12,3,2029-03-01,2029-04-01,754.66,4.9,1,0,On Track
+PP-037,Urban Development Modernisation Project 37,Urban Development,Kerala,245.0,257.85,33,17.2,38.0,20.8,52.9,10,3,2028-10-01,2028-10-01,47.51,3.4,4,1,Delayed
+PP-038,Irrigation Modernisation Project 38,Irrigation,Maharashtra,840.0,1024.63,37,16.9,20.4,31.8,46.1,8,5,2029-02-01,2029-08-01,278.89,2.7,8,1,Critical
+PP-039,Healthcare Modernisation Project 39,Healthcare,Telangana,675.0,676.61,20,5.3,17.0,11.5,23.8,13,3,2027-09-01,2027-09-01,73.69,4.3,2,0,Delayed
+PP-040,Education Modernisation Project 40,Education,Uttar Pradesh,1030.0,1140.77,59,20.8,19.3,25.4,36.1,9,4,2030-12-01,2031-05-01,264.13,3.3,4,0,Critical
+PP-041,Roads Modernisation Project 41,Roads,Karnataka,1154.0,1437.5,42,21.9,25.2,17.8,50.0,17,10,2029-07-01,2030-03-01,199.29,2.1,8,1,Critical
+PP-042,Railways Modernisation Project 42,Railways,Tamil Nadu,1067.0,1145.58,55,18.7,20.4,19.0,37.8,8,0,2030-08-01,2030-10-01,199.48,2.9,6,0,Critical
+PP-043,Water Modernisation Project 43,Water,Odisha,1001.0,1003.73,52,39.0,67.5,71.9,75.5,15,2,2030-05-01,2030-05-01,747.9,3.7,0,0,Delayed
+PP-044,Power Modernisation Project 44,Power,Madhya Pradesh,231.0,271.89,30,22.1,51.0,55.1,70.1,12,5,2028-07-01,2028-09-01,134.11,3.1,6,0,Critical
+PP-045,Urban Development Modernisation Project 45,Urban Development,Gujarat,330.0,362.45,49,16.2,20.8,23.5,37.4,10,3,2030-02-01,2030-02-01,72.53,3.9,7,0,Critical
+PP-046,Irrigation Modernisation Project 46,Irrigation,Rajasthan,618.0,602.65,51,30.5,61.2,57.2,62.2,9,2,2030-04-01,2030-05-01,352.77,4.4,1,0,On Track
+PP-047,Healthcare Modernisation Project 47,Healthcare,Kerala,1019.0,1126.67,30,8.5,20.4,30.4,26.7,14,2,2028-07-01,2028-07-01,296.51,3.6,6,0,Delayed
+PP-048,Education Modernisation Project 48,Education,Maharashtra,236.0,283.77,24,17.9,51.7,45.7,72.2,17,12,2028-01-01,2028-05-01,112.9,2.9,10,0,Critical
